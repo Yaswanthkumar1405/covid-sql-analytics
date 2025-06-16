@@ -1,7 +1,5 @@
 # 🦠 COVID-19 Global Analytics with SQL
 
-![PostgreSQL](https://img.shields.io/badge/Language-SQL-blue)
-
 📊 A full-scale SQL-based data analysis project on COVID-19 using PostgreSQL, focused on transforming raw data into decision-ready insights through advanced queries, data modeling, and data quality checks.
 
 ---
