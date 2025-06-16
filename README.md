@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🦠 COVID-19 Global Analytics with SQL
 
 📊 A full-scale SQL-based data analysis project on COVID-19 using PostgreSQL, focused on transforming raw data into decision-ready insights through advanced queries, data modeling, and data quality checks.
@@ -141,3 +142,7 @@ covid_project/
 ---
 
 ⭐ If you like this project or find it helpful, consider giving it a star!
+=======
+# covid-sql-analytics
+Advanced SQL analysis on global COVID-19 data using PostgreSQL
+>>>>>>> e3dec2e9e289ee15150609930c4aa773bd7fa4a0
