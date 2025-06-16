@@ -4,13 +4,6 @@
 
 ---
 
-## 👨‍💻 Developed by: **Yaswanth Kumar Chaganti**
-
-🎯 Data Analyst | SQL | Power BI | Python | Dashboard Design  
-📬 yaswanthkumarchaganti@gmail.com | [LinkedIn](https://www.linkedin.com/in/yaswanth-kumar-chaganti)
-
----
-
 ## 🧠 Project Objective
 
 To analyze the global COVID-19 pandemic using SQL by:
@@ -23,7 +16,8 @@ To analyze the global COVID-19 pandemic using SQL by:
 
 ## 📁 Database Design
 
-**Database Name:** `covid_project`  
+**Database Name:** `covid_project` 
+
 **Tables:**
 - `covid_data_raw` – raw OWID CSV import
 - `country` – country info and population
@@ -60,15 +54,14 @@ To analyze the global COVID-19 pandemic using SQL by:
 
 ## 💡 Key Insights
 
-1. **India and USA** recorded the largest single-day spikes in global new cases.
-2. **Some regions (e.g., Tokelau, Gibraltar)** showed over 100% vaccination — potential data anomalies.
-3. **Countries with high deaths but low stringency** show weak policy enforcement (e.g., Guadeloupe).
-4. **Zero-death countries** like Micronesia had cases but no recorded fatalities.
-5. **Case fatality rates (CFR)** varied from <0.2% to >5% globally.
-6. **Seasonal spikes** were most frequent in January and July.
-7. **Perfect referential integrity** across all dimension and fact tables.
-8. **ICU burden per 1,000 cases** showed how healthcare systems responded.
-9. **All data validated** — no negative values, all keys matched, no duplicate entries.
+- 🇮🇳 India and 🇺🇸 USA recorded the largest single-day spikes in new cases.
+- 🌍 Some small regions (e.g., Tokelau, Gibraltar) showed >100% vaccination — potential data reporting anomalies.
+- 📉 Countries like Guadeloupe had high deaths but low stringency, indicating weak policy enforcement.
+- 🧪 Zero-death nations like Micronesia had cases but no recorded fatalities.
+- ⚠️ Case fatality rates (CFR) ranged from <0.2% to over 5% globally.
+- 📆 Seasonal spikes observed most frequently in **January** and **July**.
+- 🧵 ICU burden per 1,000 cases gave insights into healthcare response.
+- ✅ Perfect referential integrity across all tables; no data corruption found.
 
 ---
 
@@ -133,7 +126,8 @@ covid_project/
 
 ## 📬 Contact
 
-📧 yaswanthkumarchaganti@gmail.com  
+👨‍💻 **Developed by:** Yaswanth Kumar Chaganti  
+📧 [yaswanthkumarchaganti@gmail.com](mailto:yaswanthkumarchaganti@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/yaswanth-kumar-chaganti)
 
 ---
