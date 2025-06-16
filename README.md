@@ -126,8 +126,6 @@ covid_project/
 │   ├── views.sql
 │   ├── analysis_queries.sql
 │   └── data_quality_checks.sql
-├── screenshots/
-│   └── schema.png
 ├── README.md
 ```
 
@@ -141,8 +139,7 @@ covid_project/
 ---
 
 ### ⭐ If you like this project or find it helpful, consider giving it a star!
-=======
-# covid-sql-analytics
+### covid-sql-analytics
 Advanced SQL analysis on global COVID-19 data using PostgreSQL
 
 
